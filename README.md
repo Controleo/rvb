@@ -1,7 +1,7 @@
 # Address Database (RIvers State Sample)
 This is a sample of 2500 buildings in Rivers state, Nigeria. You can visualize the data on either an [excel file](https://docs.google.com/spreadsheets/d/1ZMwKy-0u4b0o4S7rZWVz3gEvEnSu16A71gcR4E8flME/edit?usp=sharing) or a [web map](https://controleo.github.io/rvb/) using the embedded links. 
 
-Status: In Progress
+### Status: In Progress
 
 ## Overview 
 The importance of crime and emergency response services in Africa cannot be overemphasised. An efficient response requires a comprehensive housing database to optimise navigation during an emergency. For a largely anonymous property ownership the urban-rural and the rural parts of Africa, this proves difficult. 
@@ -18,6 +18,7 @@ The database will include but not limited to the following:
 +	City or Town
 +	State
 +	Country
+
 Subsequently, the following features wil be included;
 +	Owner
 +	Size of plot
